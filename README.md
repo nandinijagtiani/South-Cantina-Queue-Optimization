@@ -1,0 +1,1 @@
+This project focuses on reducing the queue length at South Cantina, a university restaurant that experiences long lines during peak lunch hours. By collecting and analyzing data on customer arrival times and service times at each station, we developed a simulation model using Arena software to test and recommend improvements to the queueing system.
